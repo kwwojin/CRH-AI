@@ -1,0 +1,16 @@
+pyproject.toml
+src/crh_ai/__init__.py
+src/crh_ai/cli.py
+src/crh_ai/crh_core.py
+src/crh_ai.egg-info/PKG-INFO
+src/crh_ai.egg-info/SOURCES.txt
+src/crh_ai.egg-info/dependency_links.txt
+src/crh_ai.egg-info/entry_points.txt
+src/crh_ai.egg-info/requires.txt
+src/crh_ai.egg-info/top_level.txt
+src/crh_ai/layers/__init__.py
+src/crh_ai/layers/coherence_reconstruction.py
+src/crh_ai/layers/entanglement_gradient.py
+src/crh_ai/layers/geometric_anchor.py
+src/crh_ai/layers/physical_constraint.py
+tests/test_crh_ai.py

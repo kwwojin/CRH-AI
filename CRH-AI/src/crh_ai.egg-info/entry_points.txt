@@ -1,0 +1,2 @@
+[console_scripts]
+crh-ai = crh_ai.cli:main
